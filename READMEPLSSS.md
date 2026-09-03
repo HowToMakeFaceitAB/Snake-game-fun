@@ -13,3 +13,4 @@ sfml-window.lib;
 sfml-system.lib;
 Copy paste them preferably.
 Finally, set to release and x 64 if not already and build. Have fun :)
+PLZ NOTE: The arial.ttf file may be necessary on linux. idk. Built using MSVC v145 and windows 10 sdk. using c++ 20 standard.
